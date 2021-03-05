@@ -1,0 +1,6 @@
+C:\Users\erava\source\repos\dec2bin\dec2bin\bin\Debug\dec2bin.exe
+C:\Users\erava\source\repos\dec2bin\dec2bin\bin\Debug\dec2bin.pdb
+C:\Users\erava\source\repos\dec2bin\dec2bin\obj\Debug\dec2bin.csprojAssemblyReference.cache
+C:\Users\erava\source\repos\dec2bin\dec2bin\obj\Debug\dec2bin.csproj.CoreCompileInputs.cache
+C:\Users\erava\source\repos\dec2bin\dec2bin\obj\Debug\dec2bin.exe
+C:\Users\erava\source\repos\dec2bin\dec2bin\obj\Debug\dec2bin.pdb
